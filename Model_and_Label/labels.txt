@@ -1,0 +1,10 @@
+0 Jalapeño
+1 Habanero
+2 Cayenne
+3 Serrano
+4 Ghost Pepper...
+5 Carolina Rea...
+6 Thai Chili
+7 Poblano
+8 Anaheim
+9 Bird’s Eye C...
