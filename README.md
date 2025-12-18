@@ -119,21 +119,23 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 
 ## 📱 Application Screenshots
 
-| Homepage | Guide Popup | Scanner Page | Chili Pepper Details| Prediction Result|
-|----------|--------------|-----------------|-----------------|-----------------|
-| <img src="Application_Screenshots/Homepage.jpg" width="125" alt="Homepage" /> | <img src="Application_Screenshots/Pop_up_Guide.jpg" width="125" alt="Guide Popup" /> | <img src="Application_Screenshots/Scanner_page.jpg" width="125" alt="Scanner Page" />|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="125" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="125" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="125" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="125" alt="Prediction Result 2" /> |
+| Homepage | Guide Popup | Scanner Page | Profile Page|
+|----------|--------------|-----------------|-----------------|
+| <img src="Application_Screenshots/Homepage.jpg" width="200" alt="Homepage" /> | <img src="Application_Screenshots/Pop_up_Guide.jpg" width="200" alt="Guide Popup" /> | <img src="Application_Screenshots/Scanner_page.jpg" width="200" alt="Scanner Page" />| <img src="Application_Screenshots/Profile_Page.jpg" width="200" alt="Profile Page" /> |
 
-| Chili Pepper Details 1 | Chili Pepper Details 2 | Full Description |
-|-----------------------|----------------------|----------------|
-| <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="125" alt="Details 1" /> | <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="125" alt="Details 2" /> | <img src="Application_Screenshots/Classe_Peppe_Full_Description.jpg" width="125" alt="Full Description" /> |
+| Chili Pepper Details| Prediction Result                               |
+|-----------------|------------------------------------|
+|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="200" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="200" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="200" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="200" alt="Prediction Result 2" /> |
 
-| History Page | History Detailed View | Profile Page |
-|-------------|---------------------|-------------|
-| <img src="Application_Screenshots/History_Page.jpg" width="125" alt="History Page" /> | <img src="Application_Screenshots/History_Detailed.jpg" width="125" alt="History Detailed View" /> | <img src="Application_Screenshots/Profile_Page.jpg" width="125" alt="Profile Page" /> |
+| Navigation Drawer | History Page & History Prediction View | Analytics Page |
+|-----------------------|----------------------|----------------------|
+| <img src="Application_Screenshots/Darwer.jpg" width="200" alt="Drawer" /> | <img src="Application_Screenshots/History_Page.jpg" width="200" alt="History Page" /> <img src="Application_Screenshots/History_Detailed.jpg" width="200" alt="History Detailed View" /> | <img src="Application_Screenshots/Analytics_Page.jpg" width="200" alt="Analytics Page" /> |
 
-| Navigation Drawer | Analytics Page | Guide Popup |
-|-----------------|----------------|------------|
-| <img src="Application_Screenshots/Darwer.jpg" width="125" alt="Drawer" /> | <img src="Application_Screenshots/Analytics_Page.jpg" width="125" alt="Analytics Page" /> | <img src="Application_Screenshots/Pop_up_Guide.jpg" width="125" alt="Guide Popup" /> |
+|  Chili Pepper List & Full Description |
+|-----------------------|
+|<img src="Application_Screenshots/Class_Pepper_List_Page.jpg" width="200" alt="List" /> <img src="Application_Screenshots/Classe_Peppe_Full_Description.jpg" width="200" alt="Full Description" /> |
+
+
 
 
 
@@ -141,7 +143,7 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 | Project | Description |
 |--------|-------------|
 | **Example-of-Git-and-Github** | Starter repo for Git/GitHub basics — version control, branching, committing. |
-| **Umpad_IT125_Act1** | Python project — exercises and assignments. |
+| **Umpad_IT200_Act1** | Python project — exercises and assignments. |
 | **Umpad_IT108_Activities** | School activities/projects in different languages. |
 | **Flutter_Widget_UIComponents** | Flutter UI components showcase. |
 | **Pick-and-Match-** | CSS project — styling & responsive design practice. |
