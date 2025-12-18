@@ -125,7 +125,7 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 
 | Chili Pepper Details| Prediction Result |
 |-----------------|------------------------------------|
-|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="150" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="150" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="150" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="150" alt="Prediction Result 2" /> |
+|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="170" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="170" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="170" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="170" alt="Prediction Result 2" /> |
 
 | Navigation Drawer | History Page & History Prediction View | Analytics Page |
 |-----------------------|----------------------|----------------------|
