@@ -9,7 +9,7 @@
 <hr>
 <br clear="both">
 
-<img align="right" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+<img align="right" height="175" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 About Me
 <p align="left">
@@ -125,7 +125,7 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 
 | Chili Pepper Details| Prediction Result |
 |-----------------|------------------------------------|
-|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="180" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="180" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="180" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="180" alt="Prediction Result 2" /> |
+|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="175" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="175" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="175" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="175" alt="Prediction Result 2" /> |
 
 | Navigation Drawer | History Page & History Prediction View | Analytics Page |
 |-----------------------|----------------------|----------------------|
