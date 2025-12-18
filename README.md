@@ -135,6 +135,23 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 |-----------------------|
 |<img src="Application_Screenshots/Class_Pepper_List_Page.jpg" width="200" alt="List" /> <img src="Application_Screenshots/Classe_Peppe_Full_Description.jpg" width="200" alt="Full Description" /> |
 
+## 🌶️ Chili Pepper Varieties
+
+| Class Pepper | Preview | Description |
+|--------------|---------|------------|
+| Anaheim | <img src="Chili_pepper_Classes_Image/Anaheim.png" width="100" alt="Anaheim" /> | Mild chili with a slightly sweet flavor, often used in Mexican dishes. |
+| Bird's Eye Chili | <img src="Chili_pepper_Classes_Image/Bird_s Eye Chili.jpg" width="100" alt="Bird's Eye Chili" /> | Small and extremely hot chili, common in Southeast Asian cuisine. |
+| Carolina Reaper | <img src="Chili_pepper_Classes_Image/Carolina reaper.jpg" width="100" alt="Carolina Reaper" /> | One of the hottest peppers in the world, fruity and spicy. |
+| Cayenne | <img src="Chili_pepper_Classes_Image/Cayenne.jpg" width="100" alt="Cayenne" /> | Medium-hot chili, used dried or powdered in cooking. |
+| Ghost Pepper | <img src="Chili_pepper_Classes_Image/Ghost_Pepper.jpg" width="100" alt="Ghost Pepper" /> | Extremely hot chili, also known as Bhut Jolokia. |
+| Habanero | <img src="Chili_pepper_Classes_Image/Habanero.png" width="100" alt="Habanero" /> | Very hot chili, fruity flavor, popular in hot sauces. |
+| Jalapeno | <img src="Chili_pepper_Classes_Image/Jalapeno.jpg" width="100" alt="Jalapeno" /> | Mild to medium heat, widely used in Mexican cuisine. |
+| Poblano | <img src="Chili_pepper_Classes_Image/Poblano.png" width="100" alt="Poblano" /> | Mild chili, often roasted and used in sauces and stuffing. |
+| Serrano | <img src="Chili_pepper_Classes_Image/Serrano.png" width="100" alt="Serrano" /> | Medium-hot chili, sharper than jalapeno, used in salsas. |
+| Thai Chili | <img src="Chili_pepper_Classes_Image/Thai Chili.png" width="100" alt="Thai Chili" /> | Small, very hot chili, common in Thai cuisine. |
+
+
+
 
 
 
