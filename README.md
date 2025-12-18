@@ -123,9 +123,9 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 |----------|--------------|-----------------|-----------------|
 | <img src="Application_Screenshots/Homepage.jpg" width="200" alt="Homepage" /> | <img src="Application_Screenshots/Pop_up_Guide.jpg" width="200" alt="Guide Popup" /> | <img src="Application_Screenshots/Scanner_page.jpg" width="200" alt="Scanner Page" />| <img src="Application_Screenshots/Profile_Page.jpg" width="200" alt="Profile Page" /> |
 
-| Chili Pepper Details| Prediction Result                               |
+| Chili Pepper Details| Prediction Result |
 |-----------------|------------------------------------|
-|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="200" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="200" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="200" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="200" alt="Prediction Result 2" /> |
+|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="150" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="150" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="150" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="150" alt="Prediction Result 2" /> |
 
 | Navigation Drawer | History Page & History Prediction View | Analytics Page |
 |-----------------------|----------------------|----------------------|
