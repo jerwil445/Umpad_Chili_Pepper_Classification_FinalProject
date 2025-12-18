@@ -129,7 +129,7 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 
 | Navigation Drawer | History Page & History Prediction View | Analytics Page |
 |-----------------------|----------------------|----------------------|
-| <img src="Application_Screenshots/Darwer.jpg" width="200" alt="Drawer" /> | <img src="Application_Screenshots/History_Page.jpg" width="200" alt="History Page" /> <img src="Application_Screenshots/History_Detailed.jpg" width="200" alt="History Detailed View" /> | <img src="Application_Screenshots/Analytics_Page.jpg" width="200" alt="Analytics Page" /> |
+| <img src="Application_Screenshots/Darwer.jpg" width="175" alt="Drawer" /> | <img src="Application_Screenshots/History_Page.jpg" width="175" alt="History Page" /> <img src="Application_Screenshots/History_Detailed.jpg" width="175" alt="History Detailed View" /> | <img src="Application_Screenshots/Analytics_Page.jpg" width="175" alt="Analytics Page" /> |
 
 |  Chili Pepper List & Full Description |
 |-----------------------|
