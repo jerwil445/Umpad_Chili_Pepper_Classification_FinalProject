@@ -62,20 +62,95 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
+ ## 🌶️ Chili Pepper Identifier – Flutter Application
+
+**Chili Pepper Identifier** is a cross-platform mobile app built with **Flutter** that detects and classifies various chili pepper types using **image recognition technology**. Powered by **TensorFlow Lite**, it performs **real-time image classification on-device**, eliminating the need for constant internet connectivity.  
+
+---
+
+### 📸 Image Input Methods
+Users can provide images through **two main methods**:
+
+- **Camera Capture** – Take photos in real-time using the device camera.
+- **Gallery Selection** – Select existing images from the device’s gallery.
+
+The app processes images using a **pre-trained ML model** stored in the `assets/tflite` directory:
+
+| File | Purpose |
+|------|---------|
+| `model_unquant.tflite` | Machine learning model for inference |
+| `labels.txt` | List of classification categories |
+
+**Detection results** include the identified chili pepper type and **confidence percentage**, displayed with clear visual feedback.
+
+---
+
+### ☁️ Data Persistence & History Tracking
+The app ensures **robust data storage** and history tracking using a **dual approach**:
+
+- **Cloud Storage** – Firebase Realtime Database for history tracking and cloud backup.
+- **Local Storage** – SharedPreferences for offline access and protection against network failures.
+
+---
+
+### 🎨 User Interface
+- **Vibrant color scheme** – Green & red gradients reflecting chili pepper theme 🌶️  
+- **Responsive design** – Widgets adapt to various screen sizes and orientations  
+- **Intuitive navigation**:
+  - **Landing page** – Introduces the app  
+  - **Camera interface** – Performs real-time image processing  
+  - **Results page** – Displays chronological list of past detections with timestamps  
+
+---
+
+### ⚙️ Architecture & Functionality
+- **Flutter State Management** – StatefulWidgets for dynamic UI updates  
+- **Separation of Concerns** – Each feature in a distinct file for maintainability  
+- **Error Handling** – Handles camera initialization failures, model loading errors, and network issues  
+- **Permissions Management** – Requests camera and storage permissions seamlessly  
+
+---
+
+### 🚀 Highlights
+- Real-time on-device chili pepper classification  
+- Dual storage: Cloud (Firebase) + Local (SharedPreferences)  
+- Colorful and responsive UI with intuitive navigation  
+- Handles errors and permissions gracefully  
+
+## 📱 Application Screenshots
+
+| Homepage | Guide Popup | Scanner Page | Chili Pepper Details| Prediction Result|
+|----------|--------------|-----------------|-----------------|-----------------|
+| <img src="Application_Screenshots/Homepage.jpg" width="125" alt="Homepage" /> | <img src="Application_Screenshots/Pop_up_Guide.jpg" width="125" alt="Guide Popup" /> | <img src="Application_Screenshots/Scanner_page.jpg" width="125" alt="Scanner Page" />|  <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="125" alt="Details 1" /> <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="125" alt="Details 2" /> | <img src="Application_Screenshots/Prediction_Result01.jpg" width="125" alt="Prediction Result 1" /> <img src="Application_Screenshots/Prediction_Result02.jpg" width="125" alt="Prediction Result 2" /> |
+
+| Chili Pepper Details 1 | Chili Pepper Details 2 | Full Description |
+|-----------------------|----------------------|----------------|
+| <img src="Application_Screenshots/Chili_pepper_Class_Details01.jpg" width="125" alt="Details 1" /> | <img src="Application_Screenshots/Chili_pepper_Class_Details02.jpg" width="125" alt="Details 2" /> | <img src="Application_Screenshots/Classe_Peppe_Full_Description.jpg" width="125" alt="Full Description" /> |
+
+| History Page | History Detailed View | Profile Page |
+|-------------|---------------------|-------------|
+| <img src="Application_Screenshots/History_Page.jpg" width="125" alt="History Page" /> | <img src="Application_Screenshots/History_Detailed.jpg" width="125" alt="History Detailed View" /> | <img src="Application_Screenshots/Profile_Page.jpg" width="125" alt="Profile Page" /> |
+
+| Navigation Drawer | Analytics Page | Guide Popup |
+|-----------------|----------------|------------|
+| <img src="Application_Screenshots/Darwer.jpg" width="125" alt="Drawer" /> | <img src="Application_Screenshots/Analytics_Page.jpg" width="125" alt="Analytics Page" /> | <img src="Application_Screenshots/Pop_up_Guide.jpg" width="125" alt="Guide Popup" /> |
+
+
 
 ## 📂 Highlighted Projects
 | Project | Description |
 |--------|-------------|
 | **Example-of-Git-and-Github** | Starter repo for Git/GitHub basics — version control, branching, committing. |
-| **Umpad_IT120_Act1** | Python project — exercises and assignments. |
+| **Umpad_IT125_Act1** | Python project — exercises and assignments. |
 | **Umpad_IT108_Activities** | School activities/projects in different languages. |
 | **Flutter_Widget_UIComponents** | Flutter UI components showcase. |
 | **Pick-and-Match-** | CSS project — styling & responsive design practice. |
 | **Flutter_Projects** | Flutter & Dart experiments. |
 
-> 💡 *More projects are coming soon as I continue to build and improve my skills.*
-<h3>Profile Stats</h3>
-<!-- First row: 2 images -->
+
+
+
+<h3>Profile Stats</h3><!-- First row: 2 images -->
 <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jerwil445&theme=vue-dark" alt="jerwil445 streak badge" width="40%" style="margin-right:4%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerwil445&theme=github_dark" alt="Profile details badge" width="56%" />
