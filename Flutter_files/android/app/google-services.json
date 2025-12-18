@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "89929941024",
+    "firebase_url": "https://umpad-chili-pepper-fcf4c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "umpad-chili-pepper-fcf4c",
+    "storage_bucket": "umpad-chili-pepper-fcf4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89929941024:android:3982e3b5b8195c12c23c45",
+        "android_client_info": {
+          "package_name": "com.example.chili_pepper_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBicyFg3TsrVjmZUAR0Lj18Uy0B7HU-yfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89929941024:android:1c90ebf292a2e95dc23c45",
+        "android_client_info": {
+          "package_name": "com.example.chili_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBicyFg3TsrVjmZUAR0Lj18Uy0B7HU-yfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
