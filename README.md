@@ -154,20 +154,24 @@ The app ensures **robust data storage** and history tracking using a **dual appr
 
 
 
+---
 
 
-## 📂 Highlighted Projects
-| Project | Description |
-|--------|-------------|
-| **Example-of-Git-and-Github** | Starter repo for Git/GitHub basics — version control, branching, committing. |
-| **Umpad_IT200_Act1** | Python project — exercises and assignments. |
-| **Umpad_IT108_Activities** | School activities/projects in different languages. |
-| **Flutter_Widget_UIComponents** | Flutter UI components showcase. |
-| **Pick-and-Match-** | CSS project — styling & responsive design practice. |
-| **Flutter_Projects** | Flutter & Dart experiments. |
+## 🌟 Highlighted Projects
+
+
+| **Project** | **Description** | **Tech Stack** | **Repository** |
+|-------------|------------------|----------------|----------------|
+| Chili Pepper Classification App | A Flutter app that identifies chili peppers from photos using on‑device ML. | Flutter, Dart, TensorFlow Lite, Firebase | 🔗 [Repo](https://github.com/jerwil445/Umpad_Chili_Pepper_Classification_FinalProject) |
+| Example‑of‑Git‑and‑GitHub | Starter repo for Git/GitHub basics. | Git, Markdown | 🔗 [Repo](https://github.com/jerwil445/Example-of-Git-and-Github) |
+| Flutter_Widget_UIComponents | Showcase of Flutter UI components. | Flutter, Dart | 🔗 [Repo](https://github.com/jerwil445/Flutter_Widget_UIComponents) |
+| Pick‑and‑Match | CSS project focusing on responsive design. | HTML, CSS | 🔗 [Repo](https://github.com/jerwil445/Pick-and-Match-) |
+| Umpad_IT120_Act1 | Python school exercises and assignments. | Python | 🔗 [Repo](https://github.com/jerwil445/Umpad_IT120_Act1) |
+| Umpad_IT108_Activities | Multiple school project files in various languages. | Python, C++, Java | 🔗 [Repo](https://github.com/jerwil445/Umpad_IT108_Activities) |
 
 
 
+---
 
 <h3>Profile Stats</h3><!-- First row: 2 images -->
 <p float="left">
